@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Data Science - HW 2"
-subtitle: "First Name Last name - `flastname@floridapoly.edu`"
+subtitle: "Angela Vue - `avue2160@floridapoly.edu`"
 output: html_notebook
 ---
 
